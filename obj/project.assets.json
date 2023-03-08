@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Coding\\projects\\c#\\mvcPrac\\mvcPrac.csproj",
+      "projectUniqueName": "C:\\Coding\\projects\\c#\\Pokenect V2\\mvcPrac.csproj",
       "projectName": "mvcPrac",
-      "projectPath": "C:\\Coding\\projects\\c#\\mvcPrac\\mvcPrac.csproj",
+      "projectPath": "C:\\Coding\\projects\\c#\\Pokenect V2\\mvcPrac.csproj",
       "packagesPath": "C:\\Users\\reece\\.nuget\\packages\\",
-      "outputPath": "C:\\Coding\\projects\\c#\\mvcPrac\\obj\\",
+      "outputPath": "C:\\Coding\\projects\\c#\\Pokenect V2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reece\\AppData\\Roaming\\NuGet\\NuGet.Config",
